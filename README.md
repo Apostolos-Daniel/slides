@@ -1,3 +1,3 @@
 # slides
 
-A home for the slides are use for presentations
+A home for the slides are I for presentations
