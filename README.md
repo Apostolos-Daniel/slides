@@ -1,3 +1,3 @@
 # slides
 
-A home for the slides are I for presentations
+Slides I've written or contributed to.
